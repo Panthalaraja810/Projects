@@ -19,7 +19,7 @@ namespace Project1.OOPS
             Console.WriteLine("New implementation for Interface");
         }
 
-        public static void Main(String[] args)
+        public static void aain(String[] args)
         {
             NewImp newImp = new NewImp();   
             newImp.Parent();

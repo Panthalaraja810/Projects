@@ -30,7 +30,7 @@ namespace Project1.OOPS
         public static void aain(string[] args)
         {
             Child child = new Child();  
-            child.Employee();
+            child.Employee();  //calling overriden method
             child.company();
 
         }   
