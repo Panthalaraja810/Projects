@@ -18,7 +18,7 @@ namespace Project1.DataTypes
     }
     public class Days1
     {
-        public static void Main(string[] args)
+        public static void aain(string[] args)
         {
             Console.WriteLine((int)Days.Monday);
         }
