@@ -21,7 +21,7 @@ namespace Project1.DataTypes
     }
     public class StructEx 
     {
-        public static void aSain(string[] args)
+        public static void ain(string[] args)
         {
             Person P1;
 
@@ -47,7 +47,7 @@ namespace Project1.DataTypes
 
     public class MainEx4
     {
-        public static void Main(string[] args)
+        public static void ain(string[] args)
         {
             Person p =new Person();
             p.test();
