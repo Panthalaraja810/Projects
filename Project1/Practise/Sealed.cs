@@ -16,7 +16,7 @@ namespace Project1.Practise
         }
 
         
-        public static void Main(String[] args)
+        public static void aain(String[] args)
         {
             MainEx2 main = new MainEx2();
             main.name = "asds";

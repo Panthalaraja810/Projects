@@ -14,7 +14,7 @@ namespace Project1.Practise
 
        // id =100;
 
-            public static void Main(String[] args)
+            public static void aain(String[] args)
         {
          //   Class1.name = "ASDAS";
             Console.WriteLine(name);

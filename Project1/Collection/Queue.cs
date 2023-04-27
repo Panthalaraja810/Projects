@@ -8,7 +8,7 @@ namespace Project1.Collection
 {
     internal class Queue
     {
-        public static void Main(string[] args)
+        public static void aain(string[] args)
         {
             Queue<string> myQueue = new Queue<string>();
 
